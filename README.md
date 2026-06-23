@@ -1,6 +1,6 @@
 ### Jordan Bradshaw
 
-**R&D / simulation engineer (FEA, design optimization) who builds AI agent systems.**
+**Simulation engineer (FEA, design optimization) shipping domain-expert AI systems.**
 
 I spend my days on finite-element analysis and design optimization for physical
 products, and my own time building autonomous AI systems that multiply that work.
@@ -13,7 +13,9 @@ of truth, a supervisor that audits the fleet, persistent linked memory, and
 deterministic gates with real test suites. Two subsystems run standalone with
 synthetic data:
 - 🧠 **question-aware memory retrieval** — deterministic, zero-LLM, link-walking
-- 📨 **a multi-stage automation engine** — adapter patterns + 100+ tests
+- 📨 **a multi-stage automation engine** — adapter patterns + 1,000+ tests
+
+🧰 **[claude-code-starter](https://github.com/jobradshaw98-dude/claude-code-starter)** — a clean scaffold for building your own multi-agent Claude Code setup: the CLAUDE.md cascade, shared data hub, memory hook, and scheduled-task pattern, with one worked example of each.
 
 **What I work with**
 `FEA · LS-DYNA · HyperWorks` · `design optimization` · `AI agents & multi-agent
