@@ -1,29 +1,19 @@
 ### Jordan Bradshaw
 
-**Simulation engineer (FEA, design optimization) shipping domain-expert AI systems.**
+`Simulation engineer · product development · multi-agent AI systems`
 
-I spend my days on finite-element analysis and design optimization for physical
-products, and my own time building autonomous AI systems that multiply that work.
-The interesting stuff happens where the two meet — domain expertise plus systems
-*of* AI agents, not one-off prompts.
+Building multi-agent AI systems that do real work autonomously.
 
-🔭 **Featured — [ARIA](https://github.com/jobradshaw98-dude/aria)**
-A personal multi-agent system: specialized agents on a schedule, one shared source
-of truth, a supervisor that audits the fleet, persistent linked memory, and
-deterministic gates with real test suites. Two subsystems run standalone with
-synthetic data:
-- 🧠 **question-aware memory retrieval** — deterministic, zero-LLM, link-walking
-- 📨 **a multi-stage automation engine** — adapter patterns + 1,000+ tests
+#### 📌 Pinned
 
-🧰 **[claude-code-starter](https://github.com/jobradshaw98-dude/claude-code-starter)** — a clean scaffold for building your own multi-agent Claude Code setup: the CLAUDE.md cascade, shared data hub, memory hook, and scheduled-task pattern, with one worked example of each.
+**🤖 [ARIA](https://github.com/jobradshaw98-dude/aria)** — personal multi-agent system: scheduled
+agents, one shared source of truth, a supervisor that audits the fleet, persistent linked memory,
+and deterministic gates with real test suites.
 
-**What I work with**
-`FEA · LS-DYNA · HyperWorks` · `design optimization` · `AI agents & multi-agent
-orchestration` · `LLM tooling & prompt design` · `AI-orchestrated development`
+**📨 [job-apply-engine](https://github.com/jobradshaw98-dude/job-apply-engine)** — drafts a tailored
+résumé + cover letter from your own facts, fills application forms across several ATS backends to the
+submit brink, and never auto-submits. 1,000+ tests, CI.
 
-**How I build AI**
-I architect and operate systems of AI agents — designing the orchestration, the
-state model, the gates, and the prompts — rather than hand-writing every line. The
-output is working software in production.
+`FEA · LS-DYNA · HyperWorks` · `design optimization` · `multi-agent orchestration` · `Claude Code` · `AI-orchestrated development`
 
 📫 [LinkedIn](https://www.linkedin.com/in/jordan-bradshaw/)
