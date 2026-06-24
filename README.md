@@ -6,7 +6,7 @@ Building multi-agent AI systems that do real work autonomously.
 
 #### 📌 Pinned
 
-**🤖 [ARIA](https://github.com/jobradshaw98-dude/aria)** — personal multi-agent system: scheduled
+**🤖 [ARIA](https://github.com/jobradshaw98-dude/aria-fleet)** — personal multi-agent system: scheduled
 agents, one shared source of truth, a supervisor that audits the fleet, persistent linked memory,
 and deterministic gates with real test suites.
 
